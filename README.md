@@ -13,6 +13,8 @@ but you can thank us by typing "this project was based on master browser project
 
 "To keep your browsing history and extensions 100% portable, always open the browser using launcher.bat. This ensures no data is leaked to your local Windows AppData folder."
 
+"Comes pre-loaded with the 'Survival Kit' for the modern web: Triple Ad-Blocking, Flash Support for retro gaming, and Dark Mode everywhere. All pre-configured so you don't have to waste time setting it up."
+
 Thanks to & the main projects : 
 Chromium Project
 Ungoogled Chromium
